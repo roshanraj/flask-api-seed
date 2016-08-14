@@ -14,24 +14,23 @@
 
 * main.py - holds route and flask application initialization.
 * handlers - This directory holds handlers for different routes.
-* models - holds different data models. 
+* models - holds different data models.
 
-### Quick Start 
+### Quick Start
 * python main.py
 * server will start on port 5000
 
 ## Two routes defined in the sample
 
-### /todo 
+### /todo
 ##### metod (Post)
-![Alt text](/images/post.png "Post")
+![Alt text](http://blog.roshanraj.com/images/post.png "Post")
 ##### metod (get)
-![Alt text](/images/get.png "Get")
+![Alt text](http://blog.roshanraj.com/images/get.png "Get")
 
-    
+
 ### /todo/<todo id>
 ##### metod (Get)
-![Alt text](/images/withid.png "Get")
+![Alt text](http://blog.roshanraj.com/images/withid.png "Get")
 ##### metod (Put)
-![Alt text](/images/put.png "Put")
-
+![Alt text](http://blog.roshanraj.com/images/put.png "Put")
